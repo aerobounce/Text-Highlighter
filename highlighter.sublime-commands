@@ -1,5 +1,10 @@
 [
-    {"caption":"TextHighlighter: Toggle","command":"text_highlighter_toggle"},
-    {"caption":"TextHighlighter: Clear all","command":"text_highlighter_clear_all"}
+    {
+        "caption": "TextHighlighter: Toggle",
+        "command": "text_highlighter_toggle"
+    },
+    {
+        "caption": "TextHighlighter: Clear all",
+        "command": "text_highlighter_clear_all"
+    }
 ]
-
